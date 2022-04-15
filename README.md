@@ -1,9 +1,11 @@
 Hey there 👋 Coders!
 -----------------------------------------
 
-An aspring Software Engineer and open-source lover. In the past, I worked as a Software Developer at Brainstorm Force. I have experience working on WordPress.
+<h3 dir="auto">I'm Pratiksha,</h3>
 
-I am a fun-loving, goal-oriented, optimistic personality. I believe success lies on the line joining technical skills & non-technical skills too. Being said that, I am myself a blend of the two things. Ideas + innovation 👀 + technology + leadership + commitment are my tag words for life. An avid reader & definitely not a quitter.
+An aspring Software Engineer. In the past, I worked as a Software Developer at Brainstorm Force. I have experience working on WordPress.
+
+I am a fun-loving, goal-oriented, optimistic personality. I believe success lies on the line joining technical skills & non-technical skills too. Being said that, I am myself a blend of the two things. Ideas + innovation + technology + leadership + commitment are my tag words for life. An avid reader & definitely not a quitter.
 
 <h2 dir="auto">📦 Languages and Tools:</h2><br>
 <p>
