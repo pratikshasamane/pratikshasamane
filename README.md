@@ -19,4 +19,4 @@ I am a fun-loving, goal-oriented, optimistic personality. I believe success lies
 
 <b>Please feel free to reach me out on 📫 samanepratiksha@gmail.com. Thank you so much for reading.💛</b>
 
-<i>Coming up with new repo..</i>
+<i>Coming up with new interesting knowledge...</i>
