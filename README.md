@@ -3,9 +3,9 @@ Hey there 👋 Coders!
 
 <h3 dir="auto">I'm Pratiksha,</h3>
 
-An aspring Software Engineer. In the past, I worked as a Software Developer at Brainstorm Force. I have experience working on WordPress and other technologies too.
+An aspiring Software Engineer. Previously, I worked as a Software Developer at Brainstorm Force, where I gained valuable experience working with WordPress and other technologies. I am passionate about bridging the gap between technical skills and non-technical skills to achieve success.
 
-I am a fun-loving, goal-oriented, optimistic personality. I believe success lies on the line joining technical skills & non-technical skills too. An avid reader & definitely not a quitter.
+As a fun-loving and goal-oriented individual, I approach challenges with optimism and determination. I believe that success comes from the synergy of both technical expertise and well-rounded non-technical abilities. Apart from my professional pursuits, I am an avid reader who enjoys expanding my knowledge and exploring new ideas. I embrace challenges wholeheartedly and never shy away from putting in the effort required to achieve my goals.
 
 <h2 dir="auto">📦 Languages and Tools:</h2><br>
 <p>
